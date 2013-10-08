@@ -1,0 +1,31 @@
+.title-text {
+	font-family: 'Strait', sans-serif;
+	font-size: 2em;
+	color: #FFFFFF;
+}
+
+.header-text {
+	font-family: 'Strait', sans-serif;
+	font-size: 1.5em;
+	color: #333333;
+}
+
+.body-text {
+	font-size: 15px;
+	font-family: 'Raleway', sans-serif;
+}
+.spacer {
+	padding-top: 10px;
+	padding-bottom: 5px;
+}
+.product {
+	background-color: #f5f5f5;
+	padding: 25px;
+	box-shadow: 2px 2px 20px rgba(0,0,0,0.2);
+	border: 3px solid #FFFFFF;
+}
+
+#ncloc, #emloc {
+	height: 150px;
+	width: 80%;
+}

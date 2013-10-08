@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;NirmanCraft/new_file.html&apos; to &apos;index.html&apos;" description="Rename resource &apos;new_file.html&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="new_file.html" name="index.html" stamp="1381115996599" updateReferences="true"/>
+</session>

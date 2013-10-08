@@ -1,0 +1,13 @@
+!SESSION 2013-10-07 17:16:11.715 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.6.0_51
+java.vendor=Apple Inc.
+BootLoader constants: OS=macosx, ARCH=x86, WS=cocoa, NL=en_US
+Framework arguments:  -vm /System/Library/Frameworks/JavaVM.framework/Versions/Current/Commands/java -keyring /Users/blackpearl/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws cocoa -arch x86 -vm /System/Library/Frameworks/JavaVM.framework/Versions/Current/Commands/java -keyring /Users/blackpearl/.eclipse_keyring -consoleLog -showlocation
+
+!ENTRY org.eclipse.core.resources 2 10035 2013-10-07 17:16:23.008
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.core.net 1 0 2013-10-07 17:16:24.317
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
