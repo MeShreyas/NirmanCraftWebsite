@@ -11,3 +11,23 @@ Command-line arguments:  -os macosx -ws cocoa -arch x86 -vm /System/Library/Fram
 
 !ENTRY org.eclipse.core.net 1 0 2013-10-07 17:16:24.317
 !MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY com.aptana.php.debug.epl 4 150 2013-10-12 19:33:40.198
+!MESSAGE Incompatible debugger version.
+The remote debugger version might not match the expected protocol version (2006040705).
+
+!ENTRY com.aptana.php.debug.epl 4 4 2013-10-12 20:00:11.802
+!MESSAGE class org2.eclipse.php.internal.debug.core.xdebug.dbgp.session.DBGpSession : Unexpected null from readResponse waiting for Init
+
+!ENTRY com.aptana.php.debug.epl 4 4 2013-10-12 20:00:34.500
+!MESSAGE class org2.eclipse.php.internal.debug.core.xdebug.dbgp.session.DBGpSession : Unexpected null from readResponse waiting for Init
+!SESSION 2014-01-18 13:57:32.420 -----------------------------------------------
+eclipse.buildId=3.4.2.201308081805
+java.version=1.6.0_65
+java.vendor=Apple Inc.
+BootLoader constants: OS=macosx, ARCH=x86, WS=cocoa, NL=en_US
+Framework arguments:  -vm /System/Library/Frameworks/JavaVM.framework/Versions/Current/Commands/java -keyring /Users/blackpearl/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws cocoa -arch x86 -vm /System/Library/Frameworks/JavaVM.framework/Versions/Current/Commands/java -keyring /Users/blackpearl/.eclipse_keyring -consoleLog -showlocation
+
+!ENTRY org.eclipse.core.net 1 0 2014-01-18 13:57:48.003
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
